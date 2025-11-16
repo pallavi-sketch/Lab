@@ -1,1 +1,2 @@
 sample
+has one msg
